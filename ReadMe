@@ -1,0 +1,20 @@
+This project was developed on
+PyCharm Version: 2020.3.5
+Python Version: 3.9
+Developer: David Bolis
+Purpose: To meet the requirements for the Channel9 Software Engineering Role
+Documentation: <Insert Google Drive Here>
+
+
+
+Modules used
+* Flask
+* Random
+* Setuptools
+
+The 'main.py' file, contains the python code responsible for building and
+running the API.
+
+The 'setup.py' file, contains the python code responsible for setting up this
+project as a DMG file to run on Mac.
+
